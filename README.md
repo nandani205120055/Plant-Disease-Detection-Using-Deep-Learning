@@ -12,3 +12,8 @@ Languages: Python
 
 Environment: Jupyter Notebook, vs code 
 
+Homepage of web app
+
+![image](https://github.com/nandani205120055/Plant-Disease-Detection-Using-Deep-Learning/assets/77060913/dac9ff0e-550a-4876-921c-165425c08a88)
+
+
